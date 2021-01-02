@@ -1,0 +1,38 @@
+nav{
+    background-color: #5385a9; 
+    color:white;
+}
+
+/* Formatting main header icon */
+.main-header{
+    background-color: green;
+    font-size: 40px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 10px;
+    margin-left: 20px;
+    width: 30%;
+}
+
+#navbar7{
+    padding-right: 20px;
+}
+
+.nav-link{
+    font-size: 20px;
+    color: white !important;
+    margin-right: 20px;
+}
+
+.sub-header{
+}
+
+/* Can't change the color of the li elements using the following format
+.navbar-nav .ms-auto li a{
+    color: white !important;
+}
+*/
+
+.container{
+    background-color: lightblue;
+}
