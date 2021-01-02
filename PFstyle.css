@@ -25,6 +25,7 @@ nav{
 }
 
 .sub-header{
+    background-color: lavender;
 }
 
 /* Can't change the color of the li elements using the following format
@@ -35,4 +36,17 @@ nav{
 
 .container{
     background-color: lightblue;
+}
+
+/* Footer */
+.footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    background-color: lightgreen;
+}
+
+.footer h2 {
+    font-size: 20px;
 }
