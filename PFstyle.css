@@ -3,7 +3,7 @@ nav{
     color:white;
 }
 
-/* Formatting main header icon */
+/* Formatting navbar; common to all three pages (Contact, Portfolio & About) */
 .main-header{
     background-color: green;
     font-size: 40px;
@@ -28,17 +28,15 @@ nav{
     background-color: lavender;
 }
 
-/* Can't change the color of the li elements using the following format
-.navbar-nav .ms-auto li a{
-    color: white !important;
-}
-*/
-
 .container{
     background-color: lightblue;
 }
 
-/* Footer */
+#indexContainer{
+ margin-top: 50px;
+}
+
+/* Footer; common to all three pages (Contact, Portfolio & About) */
 .footer {
     padding: 30px;
     clear: both;
