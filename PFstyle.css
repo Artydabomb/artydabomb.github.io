@@ -32,8 +32,11 @@ nav{
     background-color: lightblue;
 }
 
+.body{
+    height: 100% !important;
+}
+
 #indexContainer{
- margin-top: 50px;
 }
 
 /* Footer; common to all three pages (Contact, Portfolio & About) */
