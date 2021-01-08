@@ -18,17 +18,4 @@ Internet access is required this webpage. The URL is attached below:
 
 [Arthur Leung's Homepage]  https://artydabomb.github.io/
 
-Sample pictures of the webpages are shown below:
-
-<h2>About Me</h2>
-<img src="./index.html" alt="Sample picture of Arthur Leung's "About Me" page">
-
-
-<h2>Portfolio</h2>
-<img src="./portfolio.html" alt="Sample picture of Arthur Leung's Portfolio page">
-
-
-<h2>Contact Page</h2>
-<img src="./contact.html" alt="Sample picture of Arthur Leung's contact page"> 
-
 <strong>Code Created by Arthur Leung</strong>
