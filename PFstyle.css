@@ -30,13 +30,18 @@ nav{
 
 .container{
     background-color: lightblue;
+    margin-top: 50px;
+    margin-bottom: 350px;
+
 }
 
 .body{
     height: 100% !important;
 }
 
-#indexContainer{
+/* Portfolio Formatting */
+.row, .gy-5{
+    margin-bottom: 20px;
 }
 
 /* Footer; common to all three pages (Contact, Portfolio & About) */
